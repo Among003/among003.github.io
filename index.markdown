@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: single
+title: Hello!
 author_profile: true
 author:  
   name: "Adrian Monges Rodriguez"
@@ -17,7 +18,6 @@ author:
 
      
 ---
-# Hello!
 I'm Adrian, nice to meet you. I am a computer science and engineering graduate from the University of Riverside, California.
 
 I generally program in C and C++, but love to reach out into other areas as well (check out my projects).
