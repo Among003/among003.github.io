@@ -1,6 +1,6 @@
 ---
 job_order: 998
-name: University of California, Riverside MESA Program
+name: University of California, Riverside
 position: Undergraduate Research Assistant
 start_date: June 2019
 end_date: March 2021 
