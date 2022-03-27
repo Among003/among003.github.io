@@ -23,7 +23,7 @@ author:
 ## Hello 
 I'm Adrian. I am a computer science and engineering graduate from the University of California, Riverside.
 
-I generally program in C and C++, but love to reach out into other areas as well (check out my projects).
+I generally program in C and C++, but love to reach out into other areas as well.
   
 When I'm not programming, I'm usually playing guitar, walking my dog, or playing tennis.
 
