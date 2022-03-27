@@ -11,7 +11,7 @@ author_profile: true
 author:  
   name: "Adrian Monges Rodriguez"
   avatar: "assets/img/profilepic.jpg"
-  bio: "Computer Engineer B.A,  <br />Computer Science M.A. <br />**Always building cool stuff**"
+  bio: "Computer Engineer B.S,  <br />Computer Science M.S. <br />**Always building cool stuff**"
   location: "Riverside County"
   links :
     - label: "LinkedIn"
@@ -20,7 +20,8 @@ author:
             
 
 ---
-Hello, I'm Adrian. I am a computer science and engineering graduate from the University of California, Riverside.
+## Hello 
+I'm Adrian. I am a computer science and engineering graduate from the University of California, Riverside.
 
 I generally program in C and C++, but love to reach out into other areas as well (check out my projects).
   
