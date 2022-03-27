@@ -3,7 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: single
-title: Hello!
+tagline: "**\"You must always be curious.\"** <br/> -_Walt Whitman_"
+title: About me
+header:
+  overlay_image: /assets/img/heading1.jpg
 author_profile: true
 author:  
   name: "Adrian Monges Rodriguez"
@@ -16,9 +19,8 @@ author:
       url:   "https://www.linkedin.com/in/adrian-monges-rodriguez-a904b0163/" 
             
 
-     
 ---
-I'm Adrian, nice to meet you. I am a computer science and engineering graduate from the University of Riverside, California.
+Hello, I'm Adrian. I am a computer science and engineering graduate from the University of Riverside, California.
 
 I generally program in C and C++, but love to reach out into other areas as well (check out my projects).
   
@@ -26,9 +28,8 @@ When I'm not programming, I'm usually playing guitar, walking my dog, or playing
 
 
 ## Education
-
 {% for education in site.education %}
-<h3> {{education.school}} </h3>
+### {{education.school}} 
 **{{education.degree}}** - ({{education.graduation_date}}) <br/> 
 *{{education.subject}} - {{education.GPA}}*
 {% endfor %}

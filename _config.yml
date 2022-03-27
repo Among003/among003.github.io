@@ -17,7 +17,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Adrian's Personal Site
+title: Adrian Monges Rodriguez
 description: >- # this means to ignore newlines until "baseurl:"
     This website serves as my personal portfolio where I include my work experience and past projects
     I am proud of.
@@ -35,12 +35,9 @@ plugins:
 include: ["_layouts"]
 collections:
   work_experience:
+      sort_by: job_order
       output: true
       permalink: /:path/
-      order:
-        - kioxia.markdown
-        - research.markdown
-        - _work_experience/MESA.markdown
   education: 
       output: true
       permalink: /:path/
