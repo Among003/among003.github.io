@@ -38,7 +38,7 @@ When I'm not programming, I'm usually playing guitar, walking my dog, or playing
 ## Work Experience
 {% for experience in site.work_experience %}
 ### {{ experience.name }}  
-  <details>
+  <details open>
   <summary>
   {{ experience.position }} | {{experience.start_date}} - {{experience.end_date}} </summary>
  <p>{{ experience.content | markdownify }}</p>
