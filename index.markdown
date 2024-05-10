@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: single
-tagline: <p align="center"> <p align="center"> "**You must always be curious.\"** <br/> -_Walt Whitman_" </p>
+tagline: <p align="center"> "**You must always be curious.\"** <br/> -_Walt Whitman_" </p>
 header:
   overlay_image: /assets/img/heading1.jpg
 author_profile: true
