@@ -21,12 +21,11 @@ author:
 
 ---
 ## Hello 
-I'm Adrian. I am a computer science and engineering graduate from the University of California, Riverside.
-
-I generally program in C and C++, but love to reach out into other areas as well.
+I'm Adrian. I am a computer science and engineering graduate from the University of California, Riverside.  Currently I am working at The Boeing Company making cool stuff. I generally program in C and C++, but love to reach out into other areas as well. Check out my work experience if you're interested in what I do.  
   
-When I'm not programming, I'm usually playing guitar, walking my dog, or playing tennis.
+Here's a fun example of the projects I like to make:
 
+[![My Neuro-Prosthetic Arm](https://img.youtube.com/vi/MCMoTvqsTjg/0.jpg)](https://www.youtube.com/watch?v=MCMoTvqsTjg)
 
 ## Education
 {% for education in site.education %}
@@ -35,7 +34,7 @@ When I'm not programming, I'm usually playing guitar, walking my dog, or playing
 *{{education.subject}} - {{education.GPA}}*
 {% endfor %}
 
-## Work Experience
+## Work Experience 
 {% for experience in site.work_experience %}
 ### {{ experience.name }}  
   <details open>
