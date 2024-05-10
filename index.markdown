@@ -3,7 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: single
-tagline: "**You must always be curious.\**" <br/> -_Walt Whitman_"
+tagline: "**\"You must always be curious.\"** <br/> -_Walt Whitman_"
+title: About me
 header:
   overlay_image: /assets/img/heading1.jpg
 author_profile: true
